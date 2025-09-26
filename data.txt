@@ -1,3 +1,5 @@
+Название страницы 3301
+
 https://github.com/PixelCodeGH/cryptography-encoder-decoder
 https://github.com/vvasseur/isd
 https://github.com/vvasseur/qcmdpc_decoder
@@ -24,7 +26,7 @@ https://github.com/Andromeda1957/netpwn
 https://github.com/fumiama/base16384
 https://github.com/pasthev/sensus
 
-<head>
+<html lang="en"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>3301</title>
@@ -72,7 +74,6 @@ https://github.com/pasthev/sensus
         }
     </style>
 </head>
-
 <body>
     
     <div class="container">
@@ -123,7 +124,7 @@ https://github.com/pasthev/sensus
     
 
 
-</body>
+</body></html>
 
 11
 Неплохо.
