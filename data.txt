@@ -1,30 +1,6 @@
 Название страницы 3301
 
-https://github.com/PixelCodeGH/cryptography-encoder-decoder
-https://github.com/vvasseur/isd
-https://github.com/vvasseur/qcmdpc_decoder
-https://github.com/nzpaper/johnson-graph-qwalk
-https://github.com/vvasseur/backflip
-https://github.com/vvasseur/qcmdpc_markov
-https://github.com/koraa/decryption-despite-errors
-https://github.com/vvasseur/pqsigRM
-https://github.com/flpborba/alshehhi
-https://github.com/christianepeters/phdthesis
-https://github.com/vunguyen95/isd-sieving
-https://github.com/FloydZ/decoding
-https://github.com/topics/cryptography
-https://github.com/Botti01/Cryptography
-https://github.com/B-Con/crypto-algorithms
-https://github.com/DARKcoder37/Boxentriq_Solutions
-https://github.com/TuragaLab/DECODE
-https://github.com/Jakbor32/privnote
-https://github.com/topics/base64-decoding
-https://github.com/powturbo/Turbo-Base64
-https://github.com/Gadzhovski/TRACE-Forensic-Toolkit
-https://github.com/cristalhq/base64
-https://github.com/Andromeda1957/netpwn
-https://github.com/fumiama/base16384
-https://github.com/pasthev/sensus
+Решение проще чем кажется, человек сможет решить
 
 <html lang="en"><head>
     <meta charset="UTF-8">
