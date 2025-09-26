@@ -1,5 +1,9 @@
 #Решение проще чем кажется, человек сможет решить, коментарий мой не автора загадки#
 
+Great 😉
+alpha, beta, gamma - must be inseparable.
+
+
 <html lang="en"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
